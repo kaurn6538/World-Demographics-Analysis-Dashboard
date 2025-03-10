@@ -30,7 +30,7 @@ The primary objective of this dashboard is to provide stakeholders with insights
 
 ## Usage
 
-1, Filter by Year: Use the year filter to visualize demographic changes for a specific year or watch the animation for a dynamic representation over time.
+1. Filter by Year: Use the year filter to visualize demographic changes for a specific year or watch the animation for a dynamic representation over time.
 
 2. Hover Over Bubbles: Gain insights into country-specific data by hovering over bubbles to view detailed information.
 
