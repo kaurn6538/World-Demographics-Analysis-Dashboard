@@ -1,4 +1,4 @@
-# World-Demographics-Analysis-DashboarWorld Demographics Analysis Dashboard
+# World Demographics Analysis Dashboard
 
 ## Project Overview
 
