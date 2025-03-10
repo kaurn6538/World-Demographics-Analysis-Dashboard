@@ -38,9 +38,7 @@ The primary objective of this dashboard is to provide stakeholders with insights
 
 ## Technologies Used
 
-*    Tableau: For data visualization and dashboard creation
-
-*    Public Demographic Data Sources: Data sourced from global population datasets
+*    Tableau: For data visualization and dashboard creation.
 
 ## Conclusion
 
